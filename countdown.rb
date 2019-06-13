@@ -8,5 +8,3 @@ def countdown(seconds)
 end
  return "HAPPY NEW YEAR!"
 end
-
-countdown(5)
